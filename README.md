@@ -8,9 +8,9 @@ The easiest way to view the data contained herein is, therefore, to open it in [
 When you first open the file, your editor will probably look like this:
 ![startup image](readme-pics/startup.png)
 
-It is recommended that you open the Filters panel (Windows > Filter, or press alt-shift-F), and add the following filter: `type:node -highway=bus_stop`. Then, if desired, you can get a satellite imagery background by opening the Imagery menu and selecting "Bing aerial imagery", then open it again, select "Imagery not matching any other category", and select "TIGER Roads 2018". Your view should now look like this: ![filtered image](readme-pics/filtered.png)
+It is recommended that you open the Filters panel (Windows > Filter, or press alt-shift-F), and add the following filter: `type:node -highway=bus_stop`. Then, if desired, you can get a satellite imagery background by opening the Imagery menu and selecting "Bing aerial imagery", then open it again, select "Map for Quality Assurance", and select "TIGER Roads 2019". Your view should now look like this: ![filtered image](readme-pics/filtered.png)
 
-You can navigate the map by *right-*click-and-dragging, or using ctrl+arrow keys; you can zoom with the scroll wheel (without any keys) or using the +/- keys.
+You can navigate the map by <em>right-</em>click-and-dragging, or using ctrl+arrow keys; you can zoom with the scroll wheel (without any keys) or using the +/- keys.
 
 You can select objects by left-clicking. If you select a bus stop, you can see the properties ("Tags") of the stop and all the routes that stop there by scrolling through the "Tags / Memberships" view.
 
